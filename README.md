@@ -1,4 +1,4 @@
-# Twitch VOD Downloader 📺 📥
+# Twitch VOD Downloader 
 
 Twitch Vod Downloader is a simple application that lets you donwload any Twitch Vod you want.
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
