@@ -9,7 +9,7 @@ Twitch Vod Downloader is a portable app (no installation needed) and lets you do
 
 ##  How to Download and Use
 1. Look at the **"Releases"** section on the right side of this page.
-2. Download the latest `TwitchDownloader.exe`.
+2. Download the latest `TwitchVodDownloader.exe`.
 3. Double-click the file to launch the application.
 4. Paste the Twitch VOD URL, select your save folder, and hit **DOWNLOAD VOD**.
 
