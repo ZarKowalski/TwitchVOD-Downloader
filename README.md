@@ -32,7 +32,7 @@ If this tool saved you time and helped you keep your favorite streams, consider 
 Found a bug? Have a suggestion for a new feature? 
 I want to hear from you! You can reach out through:
 
-- **GitHub Issues**: [Open a ticket here](https://github.com/IL_TUO_USERNAME/IL_TUO_REPO/issues) (Recommended)
+- **GitHub Issues**: [Open a ticket here](https://github.com/ZarKowalski/TwitchVOD-Downloader/issues) (Recommended)
 - **Contact**: You can also contact me through my Ko-fi page or via GitHub profile.
 
 ## ⚖️ Disclaimer
